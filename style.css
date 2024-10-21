@@ -1177,7 +1177,7 @@ html {
 
     .home h1 {
         font-size: 20px;
-        padding-top: 80px;
+        padding-top: 90px;
         padding-left: 10px;
         padding-bottom: 10px;
 
@@ -1190,7 +1190,7 @@ html {
 
     }
     .main-logoimage img{
-        width: 100px;
+        width: 180px;
     }
 
     .homepagemainheading br{
@@ -1305,6 +1305,7 @@ html {
     }
     .aboutlistcolomn2{
         width: 100%;
+        padding-bottom: 30px;
       
     }
     .aboutunorderedlistrow{
@@ -1316,10 +1317,12 @@ html {
     .ourcourses h2 {
         font-size: 29.45px;
     }
-
+    .ourcourses h6{
+        padding-top: 50px;
+    }
     #ourcoursescardimg {
         display: block;
-        padding: 0px 20px 70px 10px;
+        padding: 0px 20px 50px 10px;
 
     }
 
@@ -1409,7 +1412,7 @@ html {
     }
 
     .commonheading {
-        padding-top: 80px;
+        padding-top: 50px;
     }
 
     #studentrow {
@@ -1656,6 +1659,9 @@ html {
         width: 100%;
         margin-bottom: 10px;
     }
+    .questions .row {
+        padding: 30px 0px 50px 0px;
+    }
 
     .questions .pera {
         font-size: 16px;
@@ -1807,7 +1813,7 @@ html {
     }
 
     .footercntct {
-        padding: 50px 0px 30px 0px;
+        padding: 0px 0px 0px 0px;
         margin-left: 10px;
 
     }
@@ -1851,11 +1857,6 @@ html {
         display: none;
     }
 
-    .footercntct {
-        padding: 10px 0px 10px 0px;
-
-    }
-
     #footercolomn {
         width: 100%;
     }
@@ -1863,20 +1864,23 @@ html {
 
     .calllist {
         padding: 0px;
-
+        font-size: 20px;
     }
 
     .msglist {
         padding: 0px;
+        font-size: 20px;
     }
 
     .iconheadind {
-        margin-top: 10px;
+        margin-top: 0px;
         margin-left: 15px;
     }
 
     .listimg {
         margin-left: 5px;
+        padding: 2px;
+
     }
 
     .image-grid img {
